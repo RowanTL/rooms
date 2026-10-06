@@ -43,3 +43,4 @@ default.amount = 5
 remaining.color = "FFFFFF" # Color of "Hints Remaining" text
 amount.color = "FF0000" # Color of the number next to "Hints Remaining: "
 color = "FFFFFF" # Color of the hints when they appear
+select.color = "4FC6E0" # Color of the hint when its selected in the hint menu
