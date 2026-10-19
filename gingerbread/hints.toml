@@ -26,7 +26,7 @@ hint_2 = "The yellow gumdrops spell out FIVE"
 [Short_Lock]
 box_name = "Room 1; Green Chest"
 box_contents = "Rainbow Ribbon Clue, Heart Shape Cookie Cutter"
-hint_1 = "The choolate wafer straws hold something you need. The cookie with a magnet will help you retrieve those items."
+hint_1 = "The chocolate wafer straws hold something you need. The cookie with a magnet will help you retrieve those items."
 hint_2 = "You found a key in one wafer. Is there something in the other too?"
 
 [Long_Lock]
